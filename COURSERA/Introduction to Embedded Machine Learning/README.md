@@ -22,4 +22,12 @@ Você pode acessar o dashboard deste trabalho neste link -> https://studio.edgei
 <div align="left">
 <img src="https://user-images.githubusercontent.com/87787728/181561404-81d1379d-4614-4f70-973c-5d340b32373d.png" width="200px" />
 </div>
-Figura 1: Rede Neural com Keras Classifier
+Figura 1: Rede Neural com Keras Classifier.
+
+
+Confome podemos ver na Figura 2, foi realizada e implementação do modelo para testes em tempo real.
+
+<div align="left">
+<img src="https://user-images.githubusercontent.com/87787728/181580285-353f3fd2-f2b6-42d6-9cc8-6b2d466cbb43.jpg" width="400px" />
+</div>
+Figura 2: Teste com dados em tempo real.
