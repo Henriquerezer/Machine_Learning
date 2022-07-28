@@ -19,7 +19,7 @@ caso você queira vizualizar o modelo, baixe o arquivo (ei-my_smartphone_motion_
 Você pode acessar o dashboard deste trabalho neste link -> https://studio.edgeimpulse.com/public/126066/latest
  
    
-<div align="center">
+<div align="left">
 <img src="https://user-images.githubusercontent.com/87787728/181561404-81d1379d-4614-4f70-973c-5d340b32373d.png" width="200px" />
 </div>
-
+Figura 1: Rede Neural com Keras Classifier
