@@ -15,6 +15,8 @@ Etapas
    * Com isso, ao final o modelo possuí 5 saídas, sendo uma delas para a identificação de anomalias. 
 
 caso você queira vizualizar o modelo, baixe o arquivo (ei-my_smartphone_motion_project-nn-classifier-tensorflow-lite-int8-quantized-model.lite), e faça o upload neste link -> https://netron.app/
+
+Você pode acessar o dashboard deste trabalho neste link -> https://studio.edgeimpulse.com/public/126066/latest
  
    
 <div align="center">
