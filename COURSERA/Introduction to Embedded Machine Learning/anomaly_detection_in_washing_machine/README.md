@@ -2,6 +2,8 @@ Bem vindo ao meu projeto, se trata de um projeto de aprendizagem de máquina tot
 
 Será classificado os dados de movimento e vibração de uma máquina de lavar LG 7kg front load. Meu objetivo é ser capaz de identificar se a máquina está no processo de lavagem ou no processo de centrifugação e se há alguma a anomalia durante estes processos.
 
+Neste link, você terá acesso ao projeto alocado na plataforma do Edge impulse -> https://studio.edgeimpulse.com/public/126309/latest
+
 Neste projeto foi utilizado como sistima embarcado um smartphone, pois no momento não possuo um microcontrolador como por exemplo Arduino Nano sense BLE , para a utilização.
 
 Neste projeto estou utilizando uma máquina de lavar roupas para a classificar e monitorar, mas podemos testar com outros equipamentos, como por exemplo:
