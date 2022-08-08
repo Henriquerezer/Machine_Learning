@@ -48,7 +48,7 @@ def Transf(dados):
 ```
 As variáveis categóricas (**workclass,education, marital_status, occupation, relationship, sex**) foram transformadas em variáveis numéricas utilizando o método **.map**, para a normalização das variáveis numéricas (**fnlwgt, education_num, hours_per_week, capital_gain, capital_loss, age**) as variáveis foram divididas pelos seus valores máximos, com o objetivo de normalizar os dados dentro do intervalo de 0 a 1. Por fim foi feita a dumificação das variaveis categóricas que foram transformadas em numéricas.
 
-Estamos diante de um problema de **CLASSIFICAÇÃO** , o modelo que mais se aproximou dos dados foi o [GradientBoostingClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html).
+Estamos diante de um problema de **CLASSIFICAÇÃO** , o modelo que mais se aproximou dos dados foi o [XGBOOST](https://xgboost.readthedocs.io/en/stable/).
  * Prós 
    * Portabilidade: funciona em diversos SO.
    * Variabilidade de línguas: suporta a maioria das linguagens de programação incluindo, Julia, Scala, Java, R, Python, C++.
