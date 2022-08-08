@@ -63,7 +63,7 @@ Estamos diante de um problema de **CLASSIFICAÇÃO** , o modelo que mais se apro
 A medida escolhida como métrica foi a [accuracy_score](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.accuracy_score.html), pois é a métrica base para problemas de classificação, ao mesmo tempo foi exposto outras métricas como  (**precision, recall, f1-score  e support **), também foi exposto a matriz de consusão utilizando a biblioteca **yellowbrick**.
 
 **PERGUNTA 3** 
-Neste link, segue o arquivo csv com a panilha com os dados previstos com o dataset de teste. 
+Neste [link](https://raw.githubusercontent.com/Henriquerezer/Machine_Learning/main/Desafio_INDICIUM/predictedValues), segue o arquivo csv com a panilha com os dados previstos com o dataset de teste. 
 
 **PERGUNTA 4** 
 É possível rodar todas as células do notebook em sequência.
