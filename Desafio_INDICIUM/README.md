@@ -12,6 +12,7 @@ Podemos ver que nas varíaveis (**fnlwgt, capital_gain e capital_loss**) possuem
 Para identificar quais variáveis poderiam ser descartadas, foi utilziado na seção "Correlação de variáveis e importância de variáveis", o modelo de RandomForestClassifier, utilizando um modelo de árvore, é possível utilizar o método que retorne a importância de cada feature, o plot com a importância de variáveis está disponível em [Análise dos dados](https://github.com/Henriquerezer/Machine_Learning/blob/main/Desafio_INDICIUM/An%C3%A1lise_dos_dados.ipynb), o que serviu como justificativa para a exclusão dos variáveis (**race** e **native_country**), com o objetivo de evitar viés de raça pelo modelo, já que o número de indíviduos brancos era bem maior, o que por si só já traria um viés para o modelo.
 
 Por fim, No geral nossos dados de teste possuem uma distribuição bastante semelhante com os dados de treino, o que facilitará nossa classificação pelo nosso modelo. Optei pela não remoção dos outliers, pois eles permanecem nos dados de teste, como podemos ver nas variáveis (**fnlwgt, capital_gain e capital_loss**).
+
 **PERGUNTA 2**
 Para fazer previsão do salário a partir dos dados foram feitas as seguintes transformações:
 ```
