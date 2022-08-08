@@ -76,6 +76,6 @@ Neste link, segue o arquivo csv com a panilha com os dados previstos com o datas
     pipe.fit(X_train,y_train)
   ```
   levará em torno de 1 hora para a terminar sua execução.
-  * Neste último notebook está o **modelo final** utilizado e a predição dos dataset de teste, junto com a criação da planilha csv com as **predições**
+  * Neste último notebook está o [Modelo Final](https://github.com/Henriquerezer/Machine_Learning/blob/main/Desafio_INDICIUM/Modelo_final.ipynb) utilizado e a predição dos dataset de teste, junto com a criação da planilha csv com os [predictedValues](https://raw.githubusercontent.com/Henriquerezer/Machine_Learning/main/Desafio_INDICIUM/predictedValues)
   
 
