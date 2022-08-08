@@ -69,7 +69,7 @@ Neste link, segue o arquivo csv com a panilha com os dados previstos com o datas
 É possível rodar todas as células do notebook em sequência.
  * Neste notebook temos a [Análise dos dados](https://github.com/Henriquerezer/Machine_Learning/blob/main/Desafio_INDICIUM/An%C3%A1lise_dos_dados.ipynb)
  * Neste notebok temos a [Tratamento dos dados](https://github.com/Henriquerezer/Machine_Learning/blob/main/Desafio_INDICIUM/Processamento_dos_dados.ipynb)
- * Neste notebook temos um **gridsearch** com alguns modelos de classificação o objetivo foi identificar qual o modelo com melhor acurácia, está célula,
+ * Neste notebook temos o [GridSearch](https://github.com/Henriquerezer/Machine_Learning/blob/main/Desafio_INDICIUM/gridsearch.ipynb) com alguns modelos de classificação o objetivo foi identificar qual o modelo com melhor acurácia, está célula,
   ```
   grids = [lr_grid_search, dt_grid_search, rf_grid_search, knn_grid_search, svm_grid_search, xgb_grid_search]
   for pipe in grids:
@@ -77,3 +77,5 @@ Neste link, segue o arquivo csv com a panilha com os dados previstos com o datas
   ```
   levará em torno de 1 hora para a terminar sua execução.
   * Neste último notebook está o **modelo final** utilizado e a predição dos dataset de teste, junto com a criação da planilha csv com as **predições**
+  
+
